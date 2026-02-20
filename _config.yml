@@ -1,0 +1,15 @@
+title: Music Garden — Legal
+description: Privacy Policy and Terms of Use for the Music Garden app
+baseurl: "/music-garden-legals"
+url: "https://alexdordiuk.github.io"
+
+theme: minima
+
+minima:
+  skin: classic
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
