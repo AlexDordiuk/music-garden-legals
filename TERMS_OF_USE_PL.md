@@ -1,4 +1,4 @@
-# Warunki Korzystania
+# Regulamin
 
 **Aplikacja: Music Garden**
 **Data wejścia w życie: 15 lutego 2026 r.**
