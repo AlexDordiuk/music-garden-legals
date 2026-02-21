@@ -24,7 +24,7 @@ Legal documents for the **Music Garden** iOS app.
 | Language | Link |
 |----------|------|
 | English  | [Terms of Use (EN)](TERMS_OF_USE_EN) |
-| Polski   | [Warunki Użytkowania (PL)](TERMS_OF_USE_PL) |
+| Polski   | [Regulamin (PL)](TERMS_OF_USE_PL) |
 | Українська | [Умови Використання (UK)](TERMS_OF_USE_UK) |
 
 ---
