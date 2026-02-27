@@ -15,7 +15,7 @@ Legal documents for the **Music Garden** iOS app.
 |----------|------|
 | English  | [Privacy Policy (EN)](PRIVACY_POLICY_EN) |
 | Polski   | [Polityka Prywatności (PL)](PRIVACY_POLICY_PL) |
-| Українська | [Політика Конфіденційності (UK)](PRIVACY_POLICY_UK) |
+| Українська | [Політика конфіденційності (UK)](PRIVACY_POLICY_UK) |
 
 ---
 
@@ -25,7 +25,7 @@ Legal documents for the **Music Garden** iOS app.
 |----------|------|
 | English  | [Terms of Use (EN)](TERMS_OF_USE_EN) |
 | Polski   | [Regulamin (PL)](TERMS_OF_USE_PL) |
-| Українська | [Умови Використання (UK)](TERMS_OF_USE_UK) |
+| Українська | [Угода користувача (UK)](TERMS_OF_USE_UK) |
 
 ---
 
