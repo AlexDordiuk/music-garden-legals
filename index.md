@@ -29,4 +29,14 @@ Legal documents for the **Music Garden** iOS app.
 
 ---
 
+## Support
+
+| Language | Link |
+|----------|------|
+| English  | [Support (EN)](SUPPORT_EN) |
+| Polski   | [Wsparcie (PL)](SUPPORT_PL) |
+| Українська | [Підтримка (UK)](SUPPORT_UK) |
+
+---
+
 <small>Contact: <a href="mailto:alexdordiuk@gmail.com">alexdordiuk@gmail.com</a></small>
