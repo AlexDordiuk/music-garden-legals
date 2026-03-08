@@ -2,7 +2,7 @@
 
 **App: Music Garden**
 **Effective Date: February 15, 2026**
-**Last Updated: February 15, 2026**
+**Last Updated: March 8, 2026**
 
 ---
 
@@ -43,19 +43,7 @@ Music Garden stores the following information **exclusively on your device**:
 
 This data **is not transmitted to our servers** and is stored exclusively locally on your device.
 
-### 2.2. Analytics Data
-
-We may collect anonymous analytics data using **Firebase Analytics** (a Google service) to improve the App. This data includes:
-
-- App usage events (screen views, button taps)
-- Practice session information (duration, completion)
-- Piece addition and removal events
-- Interface interactions
-- Subscription status (free/premium)
-
-This data is **anonymous** and does not contain personal information that can identify you.
-
-### 2.3. Subscription and Purchase Data
+### 2.2. Subscription and Purchase Data
 
 For processing subscriptions and in-app purchases, we use third-party services:
 
@@ -77,7 +65,6 @@ We use the collected information to:
 
 - **Provide App functionality** — save your progress and settings
 - **Send notifications** — practice reminders (only if you granted permission)
-- **Improve the App** — analyze anonymous data to detect bugs and improve functionality
 - **Manage subscriptions** — verify your subscription status to provide access to premium features
 
 ---
@@ -89,11 +76,8 @@ We process your data based on the following legal grounds:
 | Data Type | Legal Basis | Explanation |
 |-----------|-------------|-------------|
 | Local data (pieces, settings, progress) | **Contract performance** | Necessary to provide the App's core functionality |
-| Analytics data | **Legitimate interest** | To improve the App and fix bugs; you can opt out in iOS settings |
 | Subscription data | **Contract performance** | Necessary to fulfill your purchase and provide premium features |
 | Push notifications | **Consent** | Only sent with your explicit permission |
-
-You have the right to object to processing based on legitimate interest at any time (see Section 7).
 
 ---
 
@@ -101,15 +85,11 @@ You have the right to object to processing based on legitimate interest at any t
 
 The App uses the following third-party services:
 
-### 5.1. Firebase (Google)
-- **Purpose:** App usage analytics and crash reporting
-- **Privacy Policy:** [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
-
-### 5.2. RevenueCat
+### 5.1. RevenueCat
 - **Purpose:** Subscription and purchase management
 - **Privacy Policy:** [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
 
-### 5.3. Apple App Store
+### 5.2. Apple App Store
 - **Purpose:** Payment processing
 - **Privacy Policy:** [https://www.apple.com/legal/privacy](https://www.apple.com/legal/privacy)
 
@@ -128,7 +108,6 @@ Your data is protected by standard iOS security mechanisms, including device-lev
 
 ### 6.4. Data Retention Period
 - **Local data:** Stored on your device until you delete the App or specific items
-- **Analytics data:** Retained by Firebase for up to 14 months, then automatically deleted
 - **Subscription data:** Retained by RevenueCat for the duration of your subscription plus any legally required period
 
 ---
@@ -146,16 +125,11 @@ You can edit information about music pieces and settings at any time.
 ### 7.3. Right to Erasure ("Right to be Forgotten")
 - You can delete individual music pieces in the App
 - You can delete all data by removing the App from your device
-- To delete analytics data, contact us using the contact information below
 
 ### 7.4. Right to Data Portability
 Since all your data is stored locally on your device, you can access it through iOS backup mechanisms (iCloud or iTunes/Finder backup).
 
-### 7.5. Right to Object
-You can disable analytics by limiting tracking in iOS settings:
-**Settings → Privacy & Security → Tracking**
-
-### 7.6. Right to Lodge a Complaint
+### 7.5. Right to Lodge a Complaint
 If you believe your data protection rights have been violated, you have the right to lodge a complaint with the supervisory authority:
 
 **UODO (Urząd Ochrony Danych Osobowych)**
@@ -178,9 +152,11 @@ The App may send local notifications to remind you about practice:
 
 ## 9. Children's Privacy
 
-Music Garden is not intended to collect personal data from children under 13 years of age. The App includes a simple age verification.
+Music Garden is designed for children. The App does not collect any analytics data and does not use third-party tracking or advertising SDKs. All data is stored exclusively on your device.
 
-If you are a parent or guardian and believe your child has provided us with personal information, please contact us, and we will take steps to delete such information.
+The App includes parental verification before in-app purchases to prevent unauthorized purchases by children.
+
+If you are a parent or guardian and have questions about your child's data, please contact us.
 
 ---
 
@@ -192,8 +168,7 @@ The App **does not contain advertising** and does not use advertising networks.
 
 ## 11. International Data Transfer
 
-Analytics data collected by Firebase and RevenueCat may be processed on servers located outside your country, including in the USA. These services comply with applicable data protection standards, including:
-- Google's Data Processing Terms
+Subscription data processed by RevenueCat may be processed on servers located outside your country, including in the USA. RevenueCat complies with applicable data protection standards, including:
 - EU-US Data Privacy Framework (where applicable)
 - Standard Contractual Clauses (SCCs)
 

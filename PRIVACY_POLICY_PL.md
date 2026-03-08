@@ -2,7 +2,7 @@
 
 **Aplikacja: Music Garden**
 **Data wejścia w życie: 15 lutego 2026 r.**
-**Ostatnia aktualizacja: 15 lutego 2026 r.**
+**Ostatnia aktualizacja: 8 marca 2026 r.**
 
 ---
 
@@ -43,19 +43,7 @@ Music Garden przechowuje następujące informacje **wyłącznie na Twoim urządz
 
 Te dane **nie są przesyłane na nasze serwery** i są przechowywane wyłącznie lokalnie na Twoim urządzeniu.
 
-### 2.2. Dane analityczne
-
-Możemy zbierać anonimowe dane analityczne za pomocą **Firebase Analytics** (usługa Google) w celu ulepszania Aplikacji. Dane te obejmują:
-
-- Zdarzenia korzystania z aplikacji (wyświetlenia ekranów, kliknięcia przycisków)
-- Informacje o sesjach ćwiczeń (czas trwania, ukończenie)
-- Zdarzenia dodawania i usuwania utworów
-- Interakcje z interfejsem
-- Status subskrypcji (darmowa/premium)
-
-Te dane są **anonimowe** i nie zawierają informacji osobowych, które mogłyby Cię zidentyfikować.
-
-### 2.3. Dane o subskrypcjach i zakupach
+### 2.2. Dane o subskrypcjach i zakupach
 
 Do obsługi subskrypcji i zakupów w aplikacji korzystamy z usług podmiotów trzecich:
 
@@ -77,7 +65,6 @@ Wykorzystujemy zebrane informacje do:
 
 - **Zapewnienia funkcjonalności Aplikacji** — zapisywanie Twojego postępu i ustawień
 - **Wysyłania powiadomień** — przypomnienia o ćwiczeniach (tylko jeśli udzieliłeś zgody)
-- **Ulepszania Aplikacji** — analiza anonimowych danych w celu wykrywania błędów i poprawy funkcjonalności
 - **Zarządzania subskrypcjami** — weryfikacja statusu Twojej subskrypcji w celu zapewnienia dostępu do funkcji premium
 
 ---
@@ -89,11 +76,8 @@ Przetwarzamy Twoje dane na następujących podstawach prawnych:
 | Rodzaj danych | Podstawa prawna | Wyjaśnienie |
 |---------------|-----------------|-------------|
 | Dane lokalne (utwory, ustawienia, postęp) | **Wykonanie umowy** | Niezbędne do zapewnienia podstawowej funkcjonalności Aplikacji |
-| Dane analityczne | **Prawnie uzasadniony interes** | W celu ulepszania Aplikacji i naprawiania błędów; możesz zrezygnować w ustawieniach iOS |
 | Dane o subskrypcji | **Wykonanie umowy** | Niezbędne do realizacji zakupu i zapewnienia funkcji premium |
 | Powiadomienia push | **Zgoda** | Wysyłane tylko za Twoją wyraźną zgodą |
-
-Masz prawo w dowolnym momencie sprzeciwić się przetwarzaniu opartemu na prawnie uzasadnionym interesie (patrz Rozdział 7).
 
 ---
 
@@ -101,15 +85,11 @@ Masz prawo w dowolnym momencie sprzeciwić się przetwarzaniu opartemu na prawni
 
 Aplikacja korzysta z następujących usług podmiotów trzecich:
 
-### 5.1. Firebase (Google)
-- **Cel:** Analityka użytkowania aplikacji i raportowanie awarii
-- **Polityka prywatności:** [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
-
-### 5.2. RevenueCat
+### 5.1. RevenueCat
 - **Cel:** Zarządzanie subskrypcjami i zakupami
 - **Polityka prywatności:** [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
 
-### 5.3. Apple App Store
+### 5.2. Apple App Store
 - **Cel:** Przetwarzanie płatności
 - **Polityka prywatności:** [https://www.apple.com/legal/privacy](https://www.apple.com/legal/privacy)
 
@@ -128,7 +108,6 @@ Twoje dane są chronione standardowymi mechanizmami bezpieczeństwa iOS, w tym s
 
 ### 6.4. Okres przechowywania danych
 - **Dane lokalne:** Przechowywane na Twoim urządzeniu do momentu usunięcia Aplikacji lub poszczególnych elementów
-- **Dane analityczne:** Przechowywane przez Firebase do 14 miesięcy, następnie automatycznie usuwane
 - **Dane o subskrypcji:** Przechowywane przez RevenueCat przez okres trwania subskrypcji plus okres wymagany prawnie
 
 ---
@@ -146,16 +125,11 @@ Możesz w dowolnym momencie edytować informacje o utworach muzycznych i ustawie
 ### 7.3. Prawo do usunięcia ("Prawo do bycia zapomnianym")
 - Możesz usuwać poszczególne utwory muzyczne w Aplikacji
 - Możesz usunąć wszystkie dane, usuwając Aplikację z urządzenia
-- Aby usunąć dane analityczne, skontaktuj się z nami, korzystając z poniższych danych kontaktowych
 
 ### 7.4. Prawo do przenoszenia danych
 Ponieważ wszystkie Twoje dane są przechowywane lokalnie na Twoim urządzeniu, możesz uzyskać do nich dostęp poprzez mechanizmy tworzenia kopii zapasowych iOS (kopia zapasowa iCloud lub iTunes/Finder).
 
-### 7.5. Prawo do sprzeciwu
-Możesz wyłączyć analitykę, ograniczając śledzenie w ustawieniach iOS:
-**Ustawienia → Prywatność i ochrona → Śledzenie**
-
-### 7.6. Prawo do wniesienia skargi
+### 7.5. Prawo do wniesienia skargi
 Jeśli uważasz, że Twoje prawa do ochrony danych zostały naruszone, masz prawo wnieść skargę do organu nadzorczego:
 
 **UODO (Urząd Ochrony Danych Osobowych)**
@@ -178,9 +152,11 @@ Aplikacja może wysyłać lokalne powiadomienia, aby przypominać o ćwiczeniach
 
 ## 9. Prywatność dzieci
 
-Music Garden nie jest przeznaczony do zbierania danych osobowych od dzieci poniżej 13 roku życia. Aplikacja zawiera prostą weryfikację wieku.
+Music Garden jest przeznaczony dla dzieci. Aplikacja nie zbiera żadnych danych analitycznych i nie korzysta z zewnętrznych SDK do śledzenia ani reklam. Wszystkie dane są przechowywane wyłącznie na Twoim urządzeniu.
 
-Jeśli jesteś rodzicem lub opiekunem i uważasz, że Twoje dziecko przekazało nam dane osobowe, skontaktuj się z nami, a podejmiemy kroki w celu usunięcia takich informacji.
+Aplikacja zawiera weryfikację rodzicielską przed zakupami w aplikacji, aby zapobiec nieautoryzowanym zakupom przez dzieci.
+
+Jeśli jesteś rodzicem lub opiekunem i masz pytania dotyczące danych swojego dziecka, skontaktuj się z nami.
 
 ---
 
@@ -192,8 +168,7 @@ Aplikacja **nie zawiera reklam** i nie korzysta z sieci reklamowych.
 
 ## 11. Międzynarodowy transfer danych
 
-Dane analityczne zbierane przez Firebase i RevenueCat mogą być przetwarzane na serwerach znajdujących się poza Twoim krajem, w tym w USA. Usługi te przestrzegają odpowiednich standardów ochrony danych, w tym:
-- Warunki przetwarzania danych Google
+Dane o subskrypcjach przetwarzane przez RevenueCat mogą być przetwarzane na serwerach znajdujących się poza Twoim krajem, w tym w USA. RevenueCat przestrzega odpowiednich standardów ochrony danych, w tym:
 - EU-US Data Privacy Framework (gdzie ma zastosowanie)
 - Standardowe klauzule umowne (SCC)
 
