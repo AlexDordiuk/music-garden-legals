@@ -2,7 +2,7 @@
 
 **App: Music Garden**
 **Effective Date: February 15, 2026**
-**Last Updated: February 15, 2026**
+**Last Updated: October 20, 2026**
 
 ---
 
@@ -14,10 +14,11 @@ This Terms of Use Agreement ("Agreement") is a legally binding contract between 
 By downloading, installing, or using the App, you confirm that you have read, understood, and agree to comply with this Agreement. If you do not agree to these terms, please do not use the App.
 
 ### 1.2. Description of the App
-Music Garden is a mobile application for iOS that helps users track their musical instrument practice using gamification elements. The App allows you to:
+Music Garden is a mobile application for iPhone and iPad that helps users track their musical instrument practice using gamification elements. The App allows you to:
 - Add music pieces for learning
 - Track practice time
 - Watch virtual plants grow as a visualization of progress
+- Keep a daily practice streak
 - Set practice reminders
 - View practice statistics
 
@@ -50,14 +51,15 @@ You agree NOT to:
 ## 3. Subscriptions and Purchases
 
 ### 3.1. Premium Features
-The App offers a free version with basic functionality and a premium subscription "Music Garden Pro" with enhanced features.
+The App offers a free version and "Music Garden Pro". The free version lets you grow up to 3 pieces at a time and choose from 6 plants; the timer, garden, calendar, streaks and reminders are included. Music Garden Pro removes these limits: unlimited pieces and every plant.
 
 ### 3.2. Subscription Options
-The following subscription options are available:
-- **Weekly subscription** — automatically renews weekly
+The following options are available:
 - **Monthly subscription** — automatically renews monthly
-- **Annual subscription** — automatically renews yearly
+- **Annual subscription** — automatically renews yearly; may include a free trial for new subscribers
 - **Lifetime access** — one-time purchase without automatic renewal
+
+Purchases are protected by a parental check and are intended to be made by a parent or guardian.
 
 ### 3.3. Payment
 - All payments are processed through the Apple App Store
@@ -205,7 +207,7 @@ Upon termination of the Agreement:
 Downloading and using the App is also governed by Apple App Store terms. In case of conflict between this Agreement and Apple's terms, Apple's terms apply.
 
 ### 11.2. Third-Party Service Providers
-The App uses third-party services (Firebase, RevenueCat) that have their own terms of use and privacy policies. By using the App, you agree to the terms of these services.
+The App uses a third-party service (RevenueCat) that has its own terms of use and privacy policy. By using the App, you agree to the terms of this service.
 
 ---
 

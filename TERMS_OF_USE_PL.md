@@ -2,7 +2,7 @@
 
 **Aplikacja: Music Garden**
 **Data wejścia w życie: 15 lutego 2026 r.**
-**Ostatnia aktualizacja: 15 lutego 2026 r.**
+**Ostatnia aktualizacja: 20 października 2026 r.**
 
 ---
 
@@ -14,10 +14,11 @@ Niniejsza Umowa o Warunkach Korzystania ("Umowa") stanowi prawnie wiążącą um
 Pobierając, instalując lub korzystając z Aplikacji, potwierdzasz, że przeczytałeś, zrozumiałeś i zgadzasz się przestrzegać niniejszej Umowy. Jeśli nie zgadzasz się z tymi warunkami, prosimy o niekorzystanie z Aplikacji.
 
 ### 1.2. Opis Aplikacji
-Music Garden to aplikacja mobilna na iOS, która pomaga użytkownikom śledzić ćwiczenia gry na instrumentach muzycznych za pomocą elementów grywalizacji. Aplikacja umożliwia:
+Music Garden to aplikacja mobilna na iPhone'a i iPada, która pomaga użytkownikom śledzić ćwiczenia gry na instrumentach muzycznych za pomocą elementów grywalizacji. Aplikacja umożliwia:
 - Dodawanie utworów muzycznych do nauki
 - Śledzenie czasu ćwiczeń
 - Obserwowanie wzrostu wirtualnych roślin jako wizualizacji postępów
+- Utrzymywanie codziennej serii ćwiczeń
 - Ustawianie przypomnień o ćwiczeniach
 - Przeglądanie statystyk ćwiczeń
 
@@ -50,14 +51,15 @@ Zgadzasz się NIE:
 ## 3. Subskrypcje i zakupy
 
 ### 3.1. Funkcje premium
-Aplikacja oferuje bezpłatną wersję z podstawową funkcjonalnością oraz subskrypcję premium "Music Garden Pro" z rozszerzonymi funkcjami.
+Aplikacja oferuje bezpłatną wersję oraz "Music Garden Pro". W bezpłatnej wersji można uprawiać do 3 utworów jednocześnie i wybierać spośród 6 roślin; stoper, ogród, kalendarz, serie dni i przypomnienia są dostępne dla wszystkich. Music Garden Pro znosi te limity: bez limitu utworów i wszystkie rośliny.
 
 ### 3.2. Opcje subskrypcji
-Dostępne są następujące opcje subskrypcji:
-- **Subskrypcja tygodniowa** — automatycznie odnawiana co tydzień
+Dostępne są następujące opcje:
 - **Subskrypcja miesięczna** — automatycznie odnawiana co miesiąc
-- **Subskrypcja roczna** — automatycznie odnawiana co rok
+- **Subskrypcja roczna** — automatycznie odnawiana co rok; nowi subskrybenci mogą otrzymać bezpłatny okres próbny
 - **Dostęp dożywotni** — jednorazowy zakup bez automatycznego odnawiania
+
+Zakupy są chronione weryfikacją rodzica i są przeznaczone do dokonywania przez rodzica lub opiekuna prawnego.
 
 ### 3.3. Płatność
 - Wszystkie płatności są przetwarzane przez Apple App Store
@@ -205,7 +207,7 @@ Po rozwiązaniu Umowy:
 Pobieranie i korzystanie z Aplikacji podlega również warunkom Apple App Store. W przypadku konfliktu między niniejszą Umową a warunkami Apple, obowiązują warunki Apple.
 
 ### 11.2. Zewnętrzni dostawcy usług
-Aplikacja korzysta z usług podmiotów trzecich (Firebase, RevenueCat), które mają własne warunki korzystania i polityki prywatności. Korzystając z Aplikacji, zgadzasz się na warunki tych usług.
+Aplikacja korzysta z usługi podmiotu trzeciego (RevenueCat), która ma własne warunki korzystania i politykę prywatności. Korzystając z Aplikacji, zgadzasz się na warunki tej usługi.
 
 ---
 
