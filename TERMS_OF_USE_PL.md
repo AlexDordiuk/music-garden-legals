@@ -2,7 +2,7 @@
 
 **Aplikacja: Music Garden**
 **Data wejścia w życie: 15 lutego 2026 r.**
-**Ostatnia aktualizacja: 20 października 2026 r.**
+**Ostatnia aktualizacja: 21 października 2026 r.**
 
 ---
 
@@ -222,7 +222,7 @@ Wszelkie spory wynikające z niniejszej Umowy lub z nią związane podlegają ju
 ### 12.3. Prawa konsumentów UE
 Jeśli jesteś konsumentem zamieszkałym w Unii Europejskiej:
 - Możesz wnieść pozew do sądów swojego kraju zamieszkania
-- Możesz skorzystać z platformy internetowego rozstrzygania sporów (ODR) UE: [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr)
+- Możesz skorzystać z pozasądowych sposobów rozstrzygania sporów dostępnych w Twoim kraju
 - Jesteś chroniony obowiązującymi przepisami prawa ochrony konsumentów swojego kraju zamieszkania
 
 ### 12.4. Ugoda przedsądowa

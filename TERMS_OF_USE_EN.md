@@ -2,7 +2,7 @@
 
 **App: Music Garden**
 **Effective Date: February 15, 2026**
-**Last Updated: October 20, 2026**
+**Last Updated: October 21, 2026**
 
 ---
 
@@ -222,7 +222,7 @@ Any disputes arising from or in connection with this Agreement shall be subject 
 ### 12.3. EU Consumer Rights
 If you are a consumer residing in the European Union:
 - You may bring a claim in the courts of your country of residence
-- You may use the EU Online Dispute Resolution (ODR) platform: [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr)
+- You may use the out-of-court dispute resolution bodies available in your country
 - You are protected by the mandatory provisions of consumer protection legislation of your country of residence
 
 ### 12.4. Pre-Trial Settlement
